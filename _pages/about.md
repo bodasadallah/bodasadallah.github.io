@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: NLP MSc student, <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu-Dhabi - BSc from <a href='https://eng.asu.edu.eg/'>ENG-ASU</a>, Egypt.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Masdar City, Abu Dhabi</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Abderlrahman "Boda" Sadallah,  first-year MSc student at NLP Department, [MBZUAI](https://mbzuai.ac.ae/). I am working under the supervision of [Prof. Ted Briscoe](https://www.cl.cam.ac.uk/~ejb1/) and [Dr. Ekaterina Kochmar](https://ekochmar.github.io/about/). My research interests span the field of Arabic NLP, specially Grammatical Error Correction (GEC)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ <a href="mailto:abdelrahman.sadallah@mbzuai.ac.ae">Email</a>  /  <a href="https://scholar.google.ae/citations?user=XtAYJs8AAAAJ&hl=en&scioq=">Google Scholar</a>  /  <a href="https://github.com/bodasadallah">Github</a>  /  <a href="https://twitter.com/bodasadallah">Twitter </a>  /  <a href="https://bodasadallah.github.io/assets/pdf/Abdelrahman_Sadallah_resume.pdf">CV</a> 
