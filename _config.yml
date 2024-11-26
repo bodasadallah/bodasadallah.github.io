@@ -71,7 +71,7 @@ github_username: bodasadallah # your GitHub user name
 gitlab_username: bodasadallah # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: bodasadallah # your LinkedIn user name
+linkedin_username: boda-sadallah # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: XtAYJs8AAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -123,8 +123,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Random Thoughts # blog_name will be displayed in your blog page
+blog_description: Bunch of scrabbles that comes to my mind.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -158,8 +158,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: BLOG
+    rss_url: https://bodasadallah.github.io/blog/
 
 # -----------------------------------------------------------------------------
 # Collections
