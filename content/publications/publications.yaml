@@ -1,6 +1,14 @@
 # Publications List
 # Imported from CV and bibliography
 
+- id: 9
+  title: "Instruction-Guided Poetry Generation in Arabic and Its Dialects"
+  authors: "Abdelrahman Sadallah, Kareem Elozeiri, Mervat Abassy, Rania Elbadry, Mohamed Anwar, Abed Alhakim Freihat, Preslav Nakov, Fajri Koto"
+  venue: "Findings of the Association for Computational Linguistics"
+  conference: "Findings of ACL 2026"
+  paper: "https://arxiv.org/abs/2604.27766"
+  image: "content/publications/files/poetry_generation.png"
+
 - id: 1
   title: "The Good, the Bad and the Constructive: Automatically Measuring Peer Review’s Utility for Authors"
   authors: "Abdelrahman Sadallah, Tim Baumgärtner, Iryna Gurevych, Ted Briscoe"

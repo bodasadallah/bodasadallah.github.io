@@ -9,7 +9,7 @@
   url: "https://www.usi.ch/"
   start_date: "2026-01"
   end_date: "present"
-  description: "**PhD Student** at [USI](https://www.usi.ch/), supervised by [Prof. Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/). Teaching Assistant for [Responsible Use of AI in Communication](https://search.usi.ch/en/courses/35275893/responsible-use-of-ai-in-communication) and [Natural Language Processing for Business and Finance](https://search.usi.ch/en/courses/35272197/natural-language-processing-for-business-and-finance-project)."
+  description: "**PhD Student** at [USI](https://www.usi.ch/), supervised by [Prof. Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/)."
   logo: "content/timeline/logos/usi.svg"
 
 - id: "ifm-ai-engineer"
