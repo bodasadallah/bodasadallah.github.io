@@ -31,6 +31,8 @@ layout:
         href: "#publications-heading"
       - label: "Blog"
         href: "#blog-heading"
+      - label: "Daily News"
+        href: "news/"
       - label: "CV"
         href: "{{cv_url}}"
         is_external: true

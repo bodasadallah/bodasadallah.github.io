@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{TITLE}} · Boda Sadallah</title>
+    <meta name="description" content="{{DESCRIPTION}}">
+    <meta property="og:title" content="{{TITLE}}">
+    <meta property="og:description" content="{{DESCRIPTION}}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{URL}}">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="news.css">
+</head>
+<body>
+    <main>
+        <header class="header">
+            <a href="../" class="name-link"><div class="name">Boda Sadallah</div></a>
+            <nav class="nav-links">
+                <a href="../">Home</a>
+                <a href="../blogs/">Blog</a>
+                <a href="./">Daily News</a>
+                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+            </nav>
+        </header>
+
+        <div class="dn-page">
+            <div class="dn-eyebrow">Daily News · {{DATE_LONG}}</div>
+            <h1 class="dn-title">{{TITLE}}</h1>
+            <p class="dn-subtitle">{{STATS}}</p>
+            <article id="dn-post" class="dn-post" data-date="{{DATE}}"><p class="dn-empty">Loading…</p></article>
+            <nav id="dn-nav" class="dn-nav"></nav>
+        </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+    <script src="news.js"></script>
+</body>
+</html>
