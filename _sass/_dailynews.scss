@@ -1,0 +1,215 @@
+// Daily News: a light purple accent that follows the site's light and dark themes.
+
+.daily-news,
+.daily-news-list {
+  --dn-accent: #7a5af5;
+  --dn-accent-text: #5b3fd1;
+  --dn-accent-soft: rgba(122, 90, 245, 0.09);
+  --dn-accent-line: rgba(122, 90, 245, 0.35);
+  --dn-muted: var(--global-text-color-light);
+  --dn-line: var(--global-divider-color);
+  --dn-card: var(--global-card-bg-color);
+}
+
+html[data-theme="dark"] .daily-news,
+html[data-theme="dark"] .daily-news-list {
+  --dn-accent: #b4a1ff;
+  --dn-accent-text: #c9bbff;
+  --dn-accent-soft: rgba(180, 161, 255, 0.12);
+  --dn-accent-line: rgba(180, 161, 255, 0.4);
+}
+
+.daily-news {
+  .post-title {
+    color: var(--dn-accent-text);
+  }
+
+  .dn-lede {
+    margin: 1.25rem 0 2rem;
+    padding: 1rem 1.25rem;
+    border-left: 3px solid var(--dn-accent);
+    background: var(--dn-accent-soft);
+    border-radius: 0 6px 6px 0;
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+
+  .dn-section {
+    margin: 2.25rem 0 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--dn-accent-text);
+    border-bottom: 1px solid var(--dn-accent-line);
+    padding-bottom: 0.35rem;
+  }
+
+  .dn-item {
+    padding: 0.9rem 0;
+    border-bottom: 1px solid var(--dn-line);
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    h3 {
+      margin: 0 0 0.2rem;
+      font-size: 1.15rem;
+      line-height: 1.35;
+
+      a {
+        color: var(--global-text-color);
+        border-bottom: none;
+
+        &:hover {
+          color: var(--dn-accent-text);
+        }
+      }
+    }
+
+    .dn-meta {
+      font-size: 0.8rem;
+      color: var(--dn-muted);
+      letter-spacing: 0.02em;
+      margin-bottom: 0.35rem;
+    }
+
+    p {
+      margin: 0;
+      line-height: 1.55;
+    }
+  }
+
+  .dn-paper {
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--dn-line);
+
+    .dn-rank {
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--dn-accent-text);
+      text-transform: uppercase;
+    }
+
+    h3 {
+      margin: 0.2rem 0 0.5rem;
+      font-size: 1.2rem;
+      line-height: 1.35;
+
+      a {
+        color: var(--global-text-color);
+        border-bottom: none;
+
+        &:hover {
+          color: var(--dn-accent-text);
+        }
+      }
+    }
+
+    .dn-why {
+      margin: 0 0 0.75rem;
+      padding: 0.6rem 0.9rem;
+      background: var(--dn-accent-soft);
+      border-radius: 6px;
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+
+    figure {
+      margin: 0.75rem 0;
+      text-align: center;
+
+      img {
+        max-width: 100%;
+        max-height: 420px;
+        height: auto;
+        border: 1px solid var(--dn-line);
+        border-radius: 4px;
+        background: #fff;
+      }
+
+      figcaption {
+        font-size: 0.8rem;
+        color: var(--dn-muted);
+        line-height: 1.4;
+        margin-top: 0.4rem;
+        text-align: left;
+      }
+    }
+
+    details {
+      margin: 0.5rem 0;
+
+      summary {
+        cursor: pointer;
+        color: var(--dn-accent-text);
+        font-size: 0.9rem;
+        font-weight: 600;
+      }
+
+      p {
+        margin-top: 0.5rem;
+        font-size: 0.93rem;
+        line-height: 1.55;
+        color: var(--dn-muted);
+      }
+    }
+
+    .dn-links {
+      font-size: 0.85rem;
+
+      a {
+        color: var(--dn-accent-text);
+      }
+    }
+  }
+
+  .dn-footer {
+    margin-top: 2.5rem;
+    font-size: 0.85rem;
+    color: var(--dn-muted);
+  }
+}
+
+.daily-news-list {
+  .dn-card {
+    display: block;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid var(--dn-line);
+    border-left: 3px solid var(--dn-accent);
+    border-radius: 0 6px 6px 0;
+    background: var(--dn-card);
+    text-decoration: none;
+    color: var(--global-text-color);
+    transition: border-color 0.2s;
+
+    &:hover {
+      border-color: var(--dn-accent);
+      color: var(--global-text-color);
+    }
+
+    .dn-card-date {
+      font-size: 0.78rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--dn-accent-text);
+      font-weight: 700;
+    }
+
+    .dn-card-title {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin: 0.2rem 0 0.4rem;
+    }
+
+    .dn-card-lede {
+      font-size: 0.95rem;
+      line-height: 1.5;
+      color: var(--dn-muted);
+      margin: 0;
+    }
+  }
+}
