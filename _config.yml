@@ -174,11 +174,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  dailynews:
-    defaults:
-      layout: dailynews
-    output: true
-    permalink: /daily-news/:path/
 
 announcements:
   enabled: true
