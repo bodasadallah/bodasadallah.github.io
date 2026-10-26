@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-26",
+  "title": "2026-10-26 News",
+  "lede": "Nothing today touches peer review, citation analysis or scientific writing directly, so this is a short digest of the general LLM picture. The main items are a Hacker News thread on why OpenAI and Anthropic have cut LLM prices by up to 80%, and Microsoft's Decision-1, a 9B model built on Qwen. The rest is a few new open models and community evaluations.",
+  "items": 9,
+  "papers": 3
+ },
+ {
   "date": "2026-10-25",
   "title": "2026-10-25 News",
   "lede": "It's a heavy day for model releases and light on peer-review or citation work. The open-weights Kimi 3.1 Pro, described as Fable-5.1-class, is the story people will talk about. For your own research, the most useful items are an arXiv paper on why AI-generated language is hard to understand and a thread on ICLR 2027 desk rejects aimed at \"AI slop\".",
