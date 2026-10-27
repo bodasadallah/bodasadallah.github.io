@@ -2,7 +2,7 @@
  {
   "date": "2026-10-27",
   "title": "2026-10-27 News",
-  "lede": "Not much today touches peer review or citation work directly, but two big stories will be everywhere. Anthropic's S-1 filing drew the largest Hacker News discussion of the day, and a model called GPT-6.1 Terra had its own busy launch thread. For research, the most useful items are Import AI's notes on math-for-alignment and ProgramBench, a preprint on recursive self-improvement for agent skills, and a write-up arguing that confidence is not correctness when scoring extraction systems.",
+  "lede": "Nothing today touches peer review or citation analysis directly. The two big stories are business and models. Anthropic has filed its S-1 for an IPO. Latent Space reports the filing claims 1400% growth, an 85% margin, $1B of operating profit in Q2 and $134B in cash. OpenAI released GPT-6.1 Terra, a mid-tier model it pitches on visual reasoning, computer use and clearer writing. Several podcasts cover the claim that AI has now solved hard open problems in mathematics.",
   "items": 12,
   "papers": 10
  },
