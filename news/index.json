@@ -2,8 +2,8 @@
  {
   "date": "2026-10-27",
   "title": "2026-10-27 News",
-  "lede": "Nothing today touches peer review or citation analysis directly, so this is mostly a day for keeping up with the field. Anthropic's S-1 filing for a $2T IPO and OpenAI's GPT-6.1 Terra release are the two stories everyone will discuss. The most relevant item for your work is OpenAI's post on how researchers can verify and build on model-produced scientific results.",
-  "items": 11,
+  "lede": "Not much today touches peer review or citation work directly, but two big stories will be everywhere. Anthropic's S-1 filing drew the largest Hacker News discussion of the day, and a model called GPT-6.1 Terra had its own busy launch thread. For research, the most useful items are Import AI's notes on math-for-alignment and ProgramBench, a preprint on recursive self-improvement for agent skills, and a write-up arguing that confidence is not correctness when scoring extraction systems.",
+  "items": 12,
   "papers": 10
  },
  {
