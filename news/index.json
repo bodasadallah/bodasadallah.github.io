@@ -2,9 +2,9 @@
  {
   "date": "2026-10-27",
   "title": "2026-10-27 News",
-  "lede": "Two stories lead the day. OpenAI has posted a preprint claiming the Exponential Time Hypothesis is false, one of three discoveries it announced in mathematics, computer science and physics; the claim has not been verified. Anthropic's S-1 filing shows a planned $2T IPO, 1400% growth and $1B operating profit in Q2. OpenAI also released GPT-6.1 Terra, and two long-form shows look at what AI-driven proof means for mathematics. Nothing today is directly about peer review or citation.",
-  "items": 13,
-  "papers": 10
+  "lede": "Three big stories today. OpenAI claims in a preprint that the Exponential Time Hypothesis is false, one of three discoveries it announced in mathematics, computer science and physics, and none of them has been independently verified yet. Anthropic's S-1 filing shows a planned roughly $2T IPO with 85% margins and $1B operating profit in Q2, and OpenAI released GPT-6.1 Terra, a mid-tier model it pitches on writing, visual reasoning and computer use. Nothing in today's batch is directly about peer review or citations; the closest is a paper on stopping agents from dropping correct answers when users push back.",
+  "items": 12,
+  "papers": 7
  },
  {
   "date": "2026-10-26",
