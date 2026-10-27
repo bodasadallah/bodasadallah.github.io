@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-27",
+  "title": "2026-10-27 News",
+  "lede": "Nothing today touches peer review or citation analysis directly, so this is mostly a day for keeping up with the field. Anthropic's S-1 filing for a $2T IPO and OpenAI's GPT-6.1 Terra release are the two stories everyone will discuss. The most relevant item for your work is OpenAI's post on how researchers can verify and build on model-produced scientific results.",
+  "items": 11,
+  "papers": 10
+ },
+ {
   "date": "2026-10-26",
   "title": "2026-10-26 News",
   "lede": "Nothing today touches peer review, citation analysis or scientific writing directly, so this is a short digest of the general LLM picture. The main items are a Hacker News thread on why OpenAI and Anthropic have cut LLM prices by up to 80%, and Microsoft's Decision-1, a 9B model built on Qwen. The rest is a few new open models and community evaluations.",
