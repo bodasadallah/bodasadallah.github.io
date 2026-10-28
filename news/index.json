@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-28",
+  "title": "2026-10-28 News",
+  "lede": "The item closest to your work is AllenAI's blog post on whether LLMs can be trusted to judge if a research idea is novel. Next to it, an r/MachineLearning reviewer for AAAI 2027 and ICLR 2027 estimates that about half of the reviews they can see are AI-generated or AI-edited, though they say they can't prove it. Elsewhere, Anthropic's IPO filing and DeepMind's Genie 4 world model are the big industry stories, and Kevin Buzzard reports that formalising Annals of Mathematics theorems in Lean showed several of them were false as stated.",
+  "items": 15,
+  "papers": 1
+ },
+ {
   "date": "2026-10-27",
   "title": "2026-10-27 News",
   "lede": "Three big stories today. OpenAI claims in a preprint that the Exponential Time Hypothesis is false, one of three discoveries it announced in mathematics, computer science and physics, and none of them has been independently verified yet. Anthropic's S-1 filing shows a planned roughly $2T IPO with 85% margins and $1B operating profit in Q2, and OpenAI released GPT-6.1 Terra, a mid-tier model it pitches on writing, visual reasoning and computer use. Nothing in today's batch is directly about peer review or citations; the closest is a paper on stopping agents from dropping correct answers when users push back.",
