@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-29",
+  "title": "2026-10-29 News",
+  "lede": "Google's Gemini 4 Carbon leads the day. Google calls it its strongest model, with state-of-the-art cybersecurity and long-horizon capabilities, and Latent Space reports that it tops independent evals while access is limited to trusted cyber defenders at first. Little today touches peer review or citations directly. The closest items are a Reddit thread on whether reviewers should spend compute rerunning paper results, a discussion of whether AI-text detection has a fundamental limit, and Nathan Lambert's look at what benchmarking is missing.",
+  "items": 11,
+  "papers": 0
+ },
+ {
   "date": "2026-10-28",
   "title": "2026-10-28 News",
   "lede": "The item closest to your work is AllenAI's blog post on whether LLMs can be trusted to judge if a research idea is novel. Next to it, an r/MachineLearning reviewer for AAAI 2027 and ICLR 2027 estimates that about half of the reviews they can see are AI-generated or AI-edited, though they say they can't prove it. Elsewhere, Anthropic's IPO filing and DeepMind's Genie 4 world model are the big industry stories, and Kevin Buzzard reports that formalising Annals of Mathematics theorems in Lean showed several of them were false as stated.",
