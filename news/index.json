@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-30",
+  "title": "2026-10-30 News",
+  "lede": "Mistral Large 4 and Gemini 4 Carbon lead today's frontier news, and nothing touches your projects directly. Mistral has released the open weights of Mistral Large 4, a 1T-parameter multimodal model it calls the best open-weight model for coding. Google's Gemini 4 Carbon is reported to lead independent evaluations, though only trusted cyber defenders can use it for now. For your own work, the useful items are a Hugging Face project to make publicly funded science AI-ready, document-parsing releases and a forum thread on fabricated results that got through AAAI review.",
+  "items": 12,
+  "papers": 9
+ },
+ {
   "date": "2026-10-29",
   "title": "2026-10-29 News",
   "lede": "Google's Gemini 4 Carbon leads the day. Google calls it its strongest model, with state-of-the-art cybersecurity and long-horizon capabilities, and Latent Space reports that it tops independent evals while access is limited to trusted cyber defenders at first. Little today touches peer review or citations directly. The closest items are a Reddit thread on whether reviewers should spend compute rerunning paper results, a discussion of whether AI-text detection has a fundamental limit, and Nathan Lambert's look at what benchmarking is missing.",
