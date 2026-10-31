@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-31",
+  "title": "2026-10-31 News",
+  "lede": "Today is mostly industry news and has little on peer review or citations. The biggest claim is OpenAI's preprint saying the Exponential Time Hypothesis is false, which no one has verified yet. Mistral has also released the open weights of Mistral Large 4, a 1T-parameter multimodal model, and Anthropic's IPO filing and Google's AI Mode revenue admission lead the business news.",
+  "items": 15,
+  "papers": 0
+ },
+ {
   "date": "2026-10-30",
   "title": "2026-10-30 News",
   "lede": "Mistral Large 4 and Gemini 4 Carbon lead today's frontier news, and nothing touches your projects directly. Mistral has released the open weights of Mistral Large 4, a 1T-parameter multimodal model it calls the best open-weight model for coding. Google's Gemini 4 Carbon is reported to lead independent evaluations, though only trusted cyber defenders can use it for now. For your own work, the useful items are a Hugging Face project to make publicly funded science AI-ready, document-parsing releases and a forum thread on fabricated results that got through AAAI review.",
