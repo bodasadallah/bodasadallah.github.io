@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-01",
+  "title": "2026-11-01 News",
+  "lede": "Nothing today touches peer review, citation analysis or scholarly writing directly. The biggest story is Anthropic's 335-page IPO filing, which gives the clearest view yet of the company's finances. Mistral also released an open-weight model, discussed under the name Mistral Large 4. The rest is mostly agent tooling, a ChatGPT security exploit and a few community arguments.",
+  "items": 10,
+  "papers": 0
+ },
+ {
   "date": "2026-10-31",
   "title": "2026-10-31 News",
   "lede": "Today is mostly industry news and has little on peer review or citations. The biggest claim is OpenAI's preprint saying the Exponential Time Hypothesis is false, which no one has verified yet. Mistral has also released the open weights of Mistral Large 4, a 1T-parameter multimodal model, and Anthropic's IPO filing and Google's AI Mode revenue admission lead the business news.",
