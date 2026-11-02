@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-02",
+  "title": "2026-11-02 News",
+  "lede": "Nothing today touches peer review or citation analysis directly. The most substantial item is a theory preprint arguing that RLVR has no free lunch: when a model specializes in particular strategies, every gain in pass@1 must cost accuracy on some prompt, and the point where pass@k crosses over has a tight bound. The rest is mostly evaluation-methodology posts from the community, an unverified multi-agent coding claim and a few podcasts.",
+  "items": 10,
+  "papers": 2
+ },
+ {
   "date": "2026-11-01",
   "title": "2026-11-01 News",
   "lede": "Nothing today touches peer review, citation analysis or scholarly writing directly. The biggest story is Anthropic's 335-page IPO filing, which gives the clearest view yet of the company's finances. Mistral also released an open-weight model, discussed under the name Mistral Large 4. The rest is mostly agent tooling, a ChatGPT security exploit and a few community arguments.",
