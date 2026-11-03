@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-03",
+  "title": "2026-11-03 News",
+  "lede": "This covers about a day. The big story is \"Sparks of Weight-Space Programming\". Its authors claim GPT-6 Astra can read and directly edit the raw weights of a small model. They say it changed only 0.016% of Qwen3.5-0.8B's weights and improved its math by up to 6x without any training. The claim comes from a blog post, has not been verified, and reached 2,400+ points on Hacker News. For your citation work, the item to read is a mass replication from the Zou group: it reports that recent LLMs no longer invent citations.",
+  "items": 8,
+  "papers": 0,
+  "since": "2026-11-02T08:36:29+00:00"
+ },
+ {
   "date": "2026-11-02",
   "title": "2026-11-02 News",
   "lede": "Nothing today touches peer review or citation analysis directly. The most substantial item is a theory preprint arguing that RLVR has no free lunch: when a model specializes in particular strategies, every gain in pass@1 must cost accuracy on some prompt, and the point where pass@k crosses over has a tight bound. The rest is mostly evaluation-methodology posts from the community, an unverified multi-agent coding claim and a few podcasts.",
