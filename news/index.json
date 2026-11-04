@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-04",
+  "title": "2026-11-04 News",
+  "lede": "The day is dominated by \"Sparks of Weight-Space Programming,\" a paper-like blog post by Takehi, Teoh, Zhang and Khattab. It claims that frontier LLMs, GPT-6 Astra above all, can read raw neural-network weights to tell what a small network was trained to do, and can edit Qwen3.5-0.8B's weights to improve its math without gradients. A widely shared critique says the post is misleading. Closer to your work: Ehud Reiter sorts LLM-assisted papers into four scenarios, Emily Bender argues against handing peer review's problems to AI, and Ai2's StateBench finds frontier models at 13% or lower on its hardest long-document state-tracking problems.",
+  "items": 7,
+  "papers": 5,
+  "since": "2026-11-03T07:38:49+00:00"
+ },
+ {
   "date": "2026-11-03",
   "title": "2026-11-03 News",
   "lede": "This covers about a day. The big story is \"Sparks of Weight-Space Programming\". Its authors claim GPT-6 Astra can read and directly edit the raw weights of a small model. They say it changed only 0.016% of Qwen3.5-0.8B's weights and improved its math by up to 6x without any training. The claim comes from a blog post, has not been verified, and reached 2,400+ points on Hacker News. For your citation work, the item to read is a mass replication from the Zou group: it reports that recent LLMs no longer invent citations.",
