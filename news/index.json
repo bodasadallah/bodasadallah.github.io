@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-05",
+  "title": "2026-11-05 News",
+  "lede": "The weight-space programming story is still the main topic this period, which covers roughly the last 22 hours. The claim is that frontier LLMs can read and write small networks' weights directly, and a highly upvoted rebuttal says the paper overstates it. Separately, TACL will no longer take papers submitted to ARR or other *ACL conferences in the past nine months, including ones that lost the ARR reviewer-capacity lottery.",
+  "items": 8,
+  "papers": 3,
+  "since": "2026-11-04T07:08:03+00:00"
+ },
+ {
   "date": "2026-11-04",
   "title": "2026-11-04 News",
   "lede": "The day is dominated by \"Sparks of Weight-Space Programming,\" a paper-like blog post by Takehi, Teoh, Zhang and Khattab. It claims that frontier LLMs, GPT-6 Astra above all, can read raw neural-network weights to tell what a small network was trained to do, and can edit Qwen3.5-0.8B's weights to improve its math without gradients. A widely shared critique says the post is misleading. Closer to your work: Ehud Reiter sorts LLM-assisted papers into four scenarios, Emily Bender argues against handing peer review's problems to AI, and Ai2's StateBench finds frontier models at 13% or lower on its hardest long-document state-tracking problems.",
