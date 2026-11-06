@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-06",
+  "title": "2026-11-06 News",
+  "lede": "This digest covers about 28 hours, Thursday to Friday, plus a few older items, and none of it touches peer review or citation analysis. The AI story with the most traction is an Anthropic Claude Code bug report: it says the agent puts the user's email address in the User-Agent header of web-search requests, and it passed a thousand points on Hacker News. Latent Space also revisits its 'Weight-Space Programming' story, the claim that frontier LLMs can write small networks' weights directly; it calls the claim disputed but independently replicated. OpenAI released GPT-6 Cyber, a cybersecurity model.",
+  "items": 8,
+  "papers": 1,
+  "since": "2026-11-05T05:37:18+00:00"
+ },
+ {
   "date": "2026-11-05",
   "title": "2026-11-05 News",
   "lede": "The weight-space programming story is still the main topic this period, which covers roughly the last 22 hours. The claim is that frontier LLMs can read and write small networks' weights directly, and a highly upvoted rebuttal says the paper overstates it. Separately, TACL will no longer take papers submitted to ARR or other *ACL conferences in the past nine months, including ones that lost the ARR reviewer-capacity lottery.",
