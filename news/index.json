@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-08",
+  "title": "2026-11-08 News",
+  "lede": "A quiet day for the reader's own topics, with nothing new on peer review, review scores or citations. The closest items are Emily M. Bender's Bluesky thread on hedges in talk about AI, which touches the hedging features used in review analysis, and the news that Microsoft Research's AI Frontiers group has ended. The rest is mostly a Weight Space Programming video and several high-traction Hacker News stories about software.",
+  "items": 13,
+  "papers": 0,
+  "since": "2026-11-07T11:42:57+00:00"
+ },
+ {
   "date": "2026-11-07",
   "title": "2026-11-07 News",
   "lede": "This digest covers about 26 hours, and ICLR 2027 reviews dominated them. ICLR has moved to a new 1–4 scoring scale. A community count of public OpenReview scores finds that 57% of reviews give a 2 and that the median paper averages exactly 2.0. For everything else: Anthropic says AI could take on a median 38% of the researcher time needed to produce a study, and Thinking Machines released Inkling 2 Small, an open model pretrained in under three days.",
