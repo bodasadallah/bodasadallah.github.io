@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-09",
+  "title": "2026-11-09 News",
+  "lede": "A quiet stretch of about 20 hours, with nothing on peer review or citations. The most useful item for evaluation work is MaxxBench. It claims that small edits to tasks from the DeepSWE coding benchmark, such as lowercasing a file name, pull apart models that otherwise score about the same. Simon Willison's note on why agent-written pull-request descriptions read like slop is also relevant to work on human versus LLM writing.",
+  "items": 3,
+  "papers": 1,
+  "since": "2026-11-08T11:55:52+00:00"
+ },
+ {
   "date": "2026-11-08",
   "title": "2026-11-08 News",
   "lede": "A quiet day for the reader's own topics, with nothing new on peer review, review scores or citations. The closest items are Emily M. Bender's Bluesky thread on hedges in talk about AI, which touches the hedging features used in review analysis, and the news that Microsoft Research's AI Frontiers group has ended. The rest is mostly a Weight Space Programming video and several high-traction Hacker News stories about software.",
