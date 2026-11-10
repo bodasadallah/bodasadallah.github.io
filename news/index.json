@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-10",
+  "title": "2026-11-10 News",
+  "lede": "This digest covers about a day. Anthropic released Claude Fable 5.2 and Mythos 5.2, and Fable 5.2 has taken back the top spot on Artificial Analysis. The item that matters most for your own work is a venue policy: TACL now accepts only one new submission every three months from any first author, and says this is because of a flood of LLM-generated papers.",
+  "items": 10,
+  "papers": 0,
+  "since": "2026-11-09T07:57:48+00:00"
+ },
+ {
   "date": "2026-11-09",
   "title": "2026-11-09 News",
   "lede": "A quiet stretch of about 20 hours, with nothing on peer review or citations. The most useful item for evaluation work is MaxxBench. It claims that small edits to tasks from the DeepSWE coding benchmark, such as lowercasing a file name, pull apart models that otherwise score about the same. Simon Willison's note on why agent-written pull-request descriptions read like slop is also relevant to work on human versus LLM writing.",
