@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-11",
+  "title": "2026-11-11 News",
+  "lede": "This digest covers about 28 hours from 10 to 11 November, plus a few older items. Two frontier models dominate it. Anthropic released Claude Fable 5.2 and Mythos 5.2, and Fable 5.2 retook the top spot on Artificial Analysis. Google made Gemini 4 Carbon available to everyone. Separately, Nvidia CEO Jensen Huang admitted an affair with an executive the US government alleges is a Chinese spy. For your own research the yield is small: Dirk Hovy's write-up of provocative positions on new missions in NLP, a lessons-learned guide to scientific writing from a reviewer and AC/SAC, and a new ACL 2027 workshop on linguistic style.",
+  "items": 17,
+  "papers": 2,
+  "since": "2026-11-10T08:22:09+00:00"
+ },
+ {
   "date": "2026-11-10",
   "title": "2026-11-10 News",
   "lede": "This digest covers about a day. Anthropic released Claude Fable 5.2 and Mythos 5.2, and Fable 5.2 has taken back the top spot on Artificial Analysis. The item that matters most for your own work is a venue policy: TACL now accepts only one new submission every three months from any first author, and says this is because of a flood of LLM-generated papers.",
