@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-13",
+  "title": "2026-11-13 News",
+  "lede": "This digest covers about a day, from 12 to 13 November, and business news dominated it. Jensen Huang resigned as Nvidia CEO after reports of two affairs, one of them with an executive of Megaspeed, a firm tied to chip smuggling, and Google released Gemini 4 Hydrogen, the low-cost member of its Gemini 4 family. For your own research, the most useful items are the decision-model releases and papers: Google's Gemini Decision 1 and a paper on whether decision models work better as actors, judges or teachers.",
+  "items": 14,
+  "papers": 3,
+  "since": "2026-11-12T13:45:31+00:00"
+ },
+ {
   "date": "2026-11-12",
   "title": "2026-11-12 News",
   "lede": "This digest covers about 25 hours, plus a few older items that were still drawing attention. For your work, the item to read is Ehud Reiter's note that TACL, like other AI venues, is getting more submissions of lower average quality, many of them LLM-generated. The industry news is a WSJ report that Nvidia is preparing to oust Jensen Huang, along with Google's Gemini Decision 1, a cheap model that returns calibrated probabilities and rubric scores.",
