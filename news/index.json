@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-14",
+  "title": "2026-11-14 News",
+  "lede": "This digest covers about a day, plus a few older items still drawing attention. For peer-review research, the big story is ICML 2027's new call for papers. It adds a two-stage process in which area chairs decide which papers go to full review, caps each author at 20 submissions, and requires every paper to name a reciprocal reviewer. Across the field, the main story is Jensen Huang's resignation as Nvidia CEO after 33 years, along with Google's Gemini 4 Hydrogen release.",
+  "items": 12,
+  "papers": 0,
+  "since": "2026-11-13T13:06:56+00:00"
+ },
+ {
   "date": "2026-11-13",
   "title": "2026-11-13 News",
   "lede": "This digest covers about a day, from 12 to 13 November, and business news dominated it. Jensen Huang resigned as Nvidia CEO after reports of two affairs, one of them with an executive of Megaspeed, a firm tied to chip smuggling, and Google released Gemini 4 Hydrogen, the low-cost member of its Gemini 4 family. For your own research, the most useful items are the decision-model releases and papers: Google's Gemini Decision 1 and a paper on whether decision models work better as actors, judges or teachers.",
