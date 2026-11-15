@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-15",
+  "title": "2026-11-15 News",
+  "lede": "Nvidia leads this edition, which covers about 25 hours plus a few older items still gathering attention. Nvidia is in a scandal after Jensen Huang's departure, and a Wall Street Journal report says the company kept GPUs scarce by funding the startups that bought them. In research, the startup Physical Superintelligence says its system proved the Aaronson–Ambainis quantum computing conjecture, open since 2008, with a proof checked in Lean. Nothing new on peer review or citation analysis landed today.",
+  "items": 14,
+  "papers": 0,
+  "since": "2026-11-14T12:10:41+00:00"
+ },
+ {
   "date": "2026-11-14",
   "title": "2026-11-14 News",
   "lede": "This digest covers about a day, plus a few older items still drawing attention. For peer-review research, the big story is ICML 2027's new call for papers. It adds a two-stage process in which area chairs decide which papers go to full review, caps each author at 20 submissions, and requires every paper to name a reciprocal reviewer. Across the field, the main story is Jensen Huang's resignation as Nvidia CEO after 33 years, along with Google's Gemini 4 Hydrogen release.",
