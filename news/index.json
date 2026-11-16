@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-16",
+  "title": "2026-11-16 News",
+  "lede": "A thin day of about 25 hours, with almost nothing on peer review or citations. The main model news is Qwen4-Max, which drew 649 points on Hacker News. OpenAI separately claims that GPT-6 Astra helped turn a candidate lattice definition of the Standard Model into a detailed proof, a company claim that is not yet verified.",
+  "items": 5,
+  "papers": 2,
+  "since": "2026-11-15T12:44:17+00:00"
+ },
+ {
   "date": "2026-11-15",
   "title": "2026-11-15 News",
   "lede": "Nvidia leads this edition, which covers about 25 hours plus a few older items still gathering attention. Nvidia is in a scandal after Jensen Huang's departure, and a Wall Street Journal report says the company kept GPUs scarce by funding the startups that bought them. In research, the startup Physical Superintelligence says its system proved the Aaronson–Ambainis quantum computing conjecture, open since 2008, with a proof checked in Lean. Nothing new on peer review or citation analysis landed today.",
