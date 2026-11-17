@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-17",
+  "title": "2026-11-17 News",
+  "lede": "This covers about 19 hours since Monday's digest, plus a few older items still drawing attention. The biggest story for your work is a Reddit report that ICLR 2027 program chairs ran an AI-text detector on reviews. The poster says reviewers whose undisclosed AI use was flagged were asked to rewrite their reviews themselves, and that almost every review in their batch was flagged. Also new: CVPR 2027 now requires an LLM Usage Statement and warns that papers without one may be desk rejected, OpenAI published a survey of how more than 1,800 scientists use ChatGPT, and Jensen Huang has resigned from Nvidia.",
+  "items": 13,
+  "papers": 3,
+  "since": "2026-11-16T13:38:44+00:00"
+ },
+ {
   "date": "2026-11-16",
   "title": "2026-11-16 News",
   "lede": "A thin day of about 25 hours, with almost nothing on peer review or citations. The main model news is Qwen4-Max, which drew 649 points on Hacker News. OpenAI separately claims that GPT-6 Astra helped turn a candidate lattice definition of the Standard Model into a detailed proof, a company claim that is not yet verified.",
