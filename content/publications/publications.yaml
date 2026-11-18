@@ -1,6 +1,14 @@
 # Publications List
 # Imported from CV and bibliography
 
+- id: 10
+  title: "Does AI-Generated Scientific Text Follow Human Argumentation Patterns? A CARS-Based Comparison of Research Article Introductions"
+  authors: "Abdelrahman Sadallah, Narjes Sheikh Asadi, Lonneke van der Plas"
+  venue: "Findings of the Association for Computational Linguistics"
+  conference: "Findings of EACL 2027"
+  paper: "https://arxiv.org/abs/2610.01353"
+  image: "content/publications/files/cars_rhetorical_moves.png"
+
 - id: 9
   title: "Instruction-Guided Poetry Generation in Arabic and Its Dialects"
   authors: "Abdelrahman Sadallah, Kareem Elozeiri, Mervat Abassy, Rania Elbadry, Mohamed Anwar, Abed Alhakim Freihat, Preslav Nakov, Fajri Koto"

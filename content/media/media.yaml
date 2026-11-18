@@ -1,6 +1,11 @@
 # News
 # Imported from old template _news entries
 
+- id: 15
+  date: "2026-11-18"
+  title: "Paper accepted to Findings of EACL"
+  description: "[Does AI-Generated Scientific Text Follow Human Argumentation Patterns?](https://arxiv.org/abs/2610.01353) has been accepted to Findings of EACL 2027! It is the first paper of my PhD. See you in Athens!"
+
 - id: 13
   date: "2026-04-06"
   title: "Paper accepted to Findings of ACL"
