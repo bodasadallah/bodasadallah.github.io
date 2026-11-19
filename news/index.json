@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-19",
+  "title": "2026-11-19 News",
+  "lede": "This digest covers about a day, and the frontier-model race dominates it. OpenAI released GPT-6.2 Astra and GPT-6.2 Sol: Astra is cheaper per token and scores just behind Claude Fable 5.2 on the Artificial Analysis Intelligence Index, though early users found it uneven. Google announced Gemini 4 Neon on the same day. For your own area, EACL 2027 published its acceptance numbers.",
+  "items": 12,
+  "papers": 3,
+  "since": "2026-11-18T05:31:31+00:00"
+ },
+ {
   "date": "2026-11-18",
   "title": "2026-11-18 News",
   "lede": "It was a quiet day for scholarly-document NLP, with nothing new on peer review or citations. Most attention went to OpenAI's GPT-6.2 Astra and Sol, released at lower prices with claimed gains in coding, computer use and professional work. The other big story is a report that Anthropic's IPO filing says its recursive self-improvement threshold has been crossed.",
