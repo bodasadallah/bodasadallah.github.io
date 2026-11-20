@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-20",
+  "title": "2026-11-20 News",
+  "lede": "This digest covers about 26 hours, plus a few older items, and Anthropic dominated it. Anthropic listed on Nasdaq at $83 a share and closed its first day at $97.17, raising $81.3B in the largest IPO on record. The same day it claimed that its model Claude Fable 5.2 solved two open problems in black-hole physics. For your own work, the item to read is Greg Durrett's response to a viral AI-powered audit that claimed to find errors in the astrophysics literature.",
+  "items": 9,
+  "papers": 4,
+  "since": "2026-11-19T05:46:29+00:00"
+ },
+ {
   "date": "2026-11-19",
   "title": "2026-11-19 News",
   "lede": "This digest covers about a day, and the frontier-model race dominates it. OpenAI released GPT-6.2 Astra and GPT-6.2 Sol: Astra is cheaper per token and scores just behind Claude Fable 5.2 on the Artificial Analysis Intelligence Index, though early users found it uneven. Google announced Gemini 4 Neon on the same day. For your own area, EACL 2027 published its acceptance numbers.",
