@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-21",
+  "title": "2026-11-21 News",
+  "lede": "This digest covers about 29 hours. Two independent claimed proofs of the Generalized Riemann Hypothesis appeared within hours of each other. Levent Alpöge of Anthropic released a Claude-driven proof as roughly 1.3GB of Lean code, and Alessandro Masullo released a 940-page, all-human draft that Brian Conrad has been reviewing for months. Neither is verified yet. The same window brought Anthropic's $2 trillion Nasdaq listing and Thinking Machines' open-weights Inkling 2 Mini.",
+  "items": 8,
+  "papers": 0,
+  "since": "2026-11-20T08:05:10+00:00"
+ },
+ {
   "date": "2026-11-20",
   "title": "2026-11-20 News",
   "lede": "This digest covers about 26 hours, plus a few older items, and Anthropic dominated it. Anthropic listed on Nasdaq at $83 a share and closed its first day at $97.17, raising $81.3B in the largest IPO on record. The same day it claimed that its model Claude Fable 5.2 solved two open problems in black-hole physics. For your own work, the item to read is Greg Durrett's response to a viral AI-powered audit that claimed to find errors in the astrophysics literature.",
