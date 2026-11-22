@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-22",
+  "title": "2026-11-22 News",
+  "lede": "This period, about 21 hours since the last digest, is dominated by the Riemann Hypothesis. Levent Alpöge claims that he and Claude proved the Generalized Riemann Hypothesis and formalized the proof, and the Lean and Mathlib communities have put out a joint statement on verifying it. Separately, Alessandro Masullo has posted an all-human GRH proof that Brian Conrad has been checking for months. Beyond that: Anthropic listed on Thursday at about $2 trillion while the Nasdaq slid, and Thinking Machines' Inkling-2-Mini drew thousands of likes on Hugging Face.",
+  "items": 12,
+  "papers": 0,
+  "since": "2026-11-21T13:34:40+00:00"
+ },
+ {
   "date": "2026-11-21",
   "title": "2026-11-21 News",
   "lede": "This digest covers about 29 hours. Two independent claimed proofs of the Generalized Riemann Hypothesis appeared within hours of each other. Levent Alpöge of Anthropic released a Claude-driven proof as roughly 1.3GB of Lean code, and Alessandro Masullo released a 940-page, all-human draft that Brian Conrad has been reviewing for months. Neither is verified yet. The same window brought Anthropic's $2 trillion Nasdaq listing and Thinking Machines' open-weights Inkling 2 Mini.",
