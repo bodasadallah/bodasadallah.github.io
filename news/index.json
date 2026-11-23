@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-23",
+  "title": "2026-11-23 News",
+  "lede": "This digest covers about a day, plus a few older items, and little of it touches peer review or citation work. The main story is talk on Bluesky about a claimed AI-assisted proof of the Riemann Hypothesis: Ethan Mollick calls it a breakthrough, and Emily Bender criticises the labs for chasing famous problems. Also notable: OpenAI published a post arguing that perplexity could become a shared way to evaluate model capabilities, and Hard Fork reports that Anthropic went public as a $2 trillion company.",
+  "items": 5,
+  "papers": 2,
+  "since": "2026-11-22T10:07:59+00:00"
+ },
+ {
   "date": "2026-11-22",
   "title": "2026-11-22 News",
   "lede": "This period, about 21 hours since the last digest, is dominated by the Riemann Hypothesis. Levent Alpöge claims that he and Claude proved the Generalized Riemann Hypothesis and formalized the proof, and the Lean and Mathlib communities have put out a joint statement on verifying it. Separately, Alessandro Masullo has posted an all-human GRH proof that Brian Conrad has been checking for months. Beyond that: Anthropic listed on Thursday at about $2 trillion while the Nasdaq slid, and Thinking Machines' Inkling-2-Mini drew thousands of likes on Hugging Face.",
