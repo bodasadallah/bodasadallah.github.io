@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-24",
+  "title": "2026-11-24 News",
+  "lede": "This covers about a day, and most of it was industry news, not research. Nvidia reinstated Jensen Huang as CEO eleven days after he resigned, and its board says it took input from senior US government officials. Z.ai released GLM-5.4, its first looped transformer, a week after Thinking Machines shipped Inkling 2 Mini. Nothing new appeared on peer review or citation analysis. The closest items are an audit that finds widespread label errors in a coding-agent training set and a claim, not verified in anything here, that Claude proved the Riemann hypothesis.",
+  "items": 12,
+  "papers": 1,
+  "since": "2026-11-23T08:15:35+00:00"
+ },
+ {
   "date": "2026-11-23",
   "title": "2026-11-23 News",
   "lede": "This digest covers about a day, plus a few older items, and little of it touches peer review or citation work. The main story is talk on Bluesky about a claimed AI-assisted proof of the Riemann Hypothesis: Ethan Mollick calls it a breakthrough, and Emily Bender criticises the labs for chasing famous problems. Also notable: OpenAI published a post arguing that perplexity could become a shared way to evaluate model capabilities, and Hard Fork reports that Anthropic went public as a $2 trillion company.",
