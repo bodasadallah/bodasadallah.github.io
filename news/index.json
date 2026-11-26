@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-26",
+  "title": "2026-11-26 News",
+  "lede": "The past day was dominated by claims of AI-produced mathematics. An OpenAI preprint claims the matrix multiplication exponent ω is exactly 9/4. Scott Aaronson posted that AI is opening \"a whole new continent of mathematical truth\", after two proofs of VP ≠ VNP that he is still digesting. Neither result has been verified yet. For your own work, the most relevant items are Ai2's interviews with scientists about where AI agents should stop and NVIDIA's open document-parsing release.",
+  "items": 12,
+  "papers": 2,
+  "since": "2026-11-25T05:52:01+00:00"
+ },
+ {
   "date": "2026-11-25",
   "title": "2026-11-25 News",
   "lede": "This digest covers about 21 hours from Tuesday to Wednesday, plus a few older items that were still picking up attention. Latent Space calls Google DeepMind's Gemini 4 Neon its return to the frontier, and Nvidia reinstating Jensen Huang as CEO was the most-voted Hacker News story. For your work, the item to read is ICML 2027's call for papers: ICML says it is changing how the conference runs because ML research has changed in the past year. Z.ai's GLM-5.4 also adds to the week's attention on looped transformers.",
