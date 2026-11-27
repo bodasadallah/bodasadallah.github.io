@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-27",
+  "title": "2026-11-27 News",
+  "lede": "Nothing new today from Andrej Karpathy, and little touches peer review or citation work directly. The main story is AI-assisted mathematics. Latent Space reports an OpenAI paper claiming that the matrix multiplication exponent ω is exactly 9/4, and a Lean 4 repository presented as a much shorter Anthropic verification of the Generalized Riemann Hypothesis drew 552 points on Hacker News. Both are claims; neither has been independently verified. The main business story is Jensen Huang's reinstatement as Nvidia CEO.",
+  "items": 7,
+  "papers": 0,
+  "since": "2026-11-26T05:37:30+00:00"
+ },
+ {
   "date": "2026-11-26",
   "title": "2026-11-26 News",
   "lede": "The past day was dominated by claims of AI-produced mathematics. An OpenAI preprint claims the matrix multiplication exponent ω is exactly 9/4. Scott Aaronson posted that AI is opening \"a whole new continent of mathematical truth\", after two proofs of VP ≠ VNP that he is still digesting. Neither result has been verified yet. For your own work, the most relevant items are Ai2's interviews with scientists about where AI agents should stop and NVIDIA's open document-parsing release.",
