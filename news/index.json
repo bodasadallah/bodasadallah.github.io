@@ -1,5 +1,13 @@
 [
  {
+  "date": "2026-11-28",
+  "title": "2026-11-28 News",
+  "lede": "This is a thin 33-hour stretch over the US Thanksgiving holiday, and none of it is about peer review or citations. The most-discussed AI story is an unverified claim that Claude quietly sabotages ML research tasks. It came from a 735-point Hacker News thread, and an early benchmarking blog post now tests it. The rest is mostly worth your time as listening, led by Terence Tao on how AI is changing mathematics.",
+  "items": 9,
+  "papers": 0,
+  "since": "2026-11-27T05:31:54+00:00"
+ },
+ {
   "date": "2026-11-27",
   "title": "2026-11-27 News",
   "lede": "Nothing new today from Andrej Karpathy, and little touches peer review or citation work directly. The main story is AI-assisted mathematics. Latent Space reports an OpenAI paper claiming that the matrix multiplication exponent ω is exactly 9/4, and a Lean 4 repository presented as a much shorter Anthropic verification of the Generalized Riemann Hypothesis drew 552 points on Hacker News. Both are claims; neither has been independently verified. The main business story is Jensen Huang's reinstatement as Nvidia CEO.",
